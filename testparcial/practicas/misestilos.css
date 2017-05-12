@@ -1,0 +1,31 @@
+
+header
+{
+	background: #ffc;
+}
+body
+{
+	/*background-color: #5B555E;
+	font-family: Rosse on
+	*/
+}
+nav
+{
+	background: #000; color: white;
+}
+
+section
+{
+	border: 2px dashed #0f0;
+}
+
+aside
+{
+	border: 2px dotted #f00;
+
+}
+footer
+{
+	background: black; color: rgb(255,255,255);
+}
+

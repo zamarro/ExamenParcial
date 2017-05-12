@@ -1,0 +1,4 @@
+/*referencias por palabra clave*/
+h1{color: red;}
+p{color: blue;}
+p:nth-child(2n){color: #ccc;}

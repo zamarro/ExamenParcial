@@ -1,0 +1,23 @@
+body
+{
+	margin: 100px 10px;
+	padding: 50px 25px;
+	border: 1px solid blue; 
+	border: 8px solid red;
+	border: 6px solid black;
+
+}
+
+h1
+{
+	font-family: "Helvetica", Arial;
+	background: #ffc;
+	border: 2px solid red;
+	margin: 20px;
+	padding: 100px;
+}
+
+span
+{
+	background: #dff0d8;
+}
